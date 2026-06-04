@@ -76,7 +76,7 @@ function App() {
   return (
     <>
       <div className="bg-black w-full h-auto pb-10 flex flex-col justify-start pt-10 items-center">
-        <div className="flex flex-col  bg-[#7C3AED] w-full md:w-[400px] py-10 px-5  ">
+        <div className="flex flex-col  bg-[#7C3AED] w-[400px] py-10 px-5  ">
           <h1 className="text-white text-4xl font-semibold text-center">
             Todo App
           </h1>
